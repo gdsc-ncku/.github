@@ -1,5 +1,5 @@
 # GDSC NCKU
-![image](https://github.com/gdsc-ncku/.github/blob/main/profile/2023-chapter-header.jpg)
+![image](https://github.com/gdsc-ncku/.github/blob/main/profile/2023-gdsc-chapter-header.jpg)
 
 我們是一個學術性社群，希望透過人與人之間的溝通合作，運用軟體科技來解決生活中會面臨到的種種難題。國立成功大學位於台灣台南市，是全國頂尖綜合性研究型大學，也是台南府城的驕傲。
 
